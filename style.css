@@ -1,0 +1,49 @@
+body {
+    font-family: serif;
+    margin: 4px;
+    padding: 1px;
+  }
+  
+  header {
+    text-align: center;
+text-shadow: 3px 3px grey;
+    font-size: 28px;
+    padding: 1px;
+  }
+ .backgroundimg {
+    background: center url("https://files.123freevectors.com/wp-content/original/202643-light-color-plain-background-design.jpg") ;
+max-width:100%;
+max-height:100%;
+ text-align: center;
+  }
+  
+  nav {
+    background-color: orange;
+    padding: 0.5px;
+  }
+  
+  .topnav {
+  overflow: hidden;
+  background-color:orange;
+}
+
+.topnav a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 1px 19px;
+  font-size: 17px;
+}
+
+  img {
+    width: 450px;
+    height: 370px;
+    padding: 10px;
+  }
+footer {
+  background-color:black;
+  color: white;
+  padding: 4px;
+  text-align: center;
+}
+  
